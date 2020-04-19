@@ -4,8 +4,10 @@
 ## Description
 This app allows usersa to view, create and track daily workouts. Users are able to log multiple exercises. Name, type, weight, sets, reps, and duration of exercise can be tracked. Cardio exercises will track the distance traveled.
 
+![Alt text](./readmeWorkoutTracker.png?raw=true "AppImage")
+
 ## Deployment
-Run npm i(nstall)
+Run 'npm install' in the command line. When finished, run 'node server.js'. The app should then open on a local port which you may open in your browser.
 
 ## Dependencies
 * [express](expressjs.com)
