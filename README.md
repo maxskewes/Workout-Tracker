@@ -9,8 +9,8 @@ Run npm i(nstall)
 
 ## Dependencies
 * [express](expressjs.com)
-* [mongoose]
-* [morgan]
+* [mongoose](https://mongoosejs.com)
+* [morgan](https://www.npmjs.com/package/morgan)
 
 ## Author
 Maxwell Countryman Skewes
